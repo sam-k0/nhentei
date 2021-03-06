@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+nhentei/__init__.py
+nhentei/nfunctions.py
+nhentei.egg-info/PKG-INFO
+nhentei.egg-info/SOURCES.txt
+nhentei.egg-info/dependency_links.txt
+nhentei.egg-info/top_level.txt
